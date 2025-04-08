@@ -1,2 +1,3 @@
 # documentation
-Documentation for Colossum Studios services and platform.
+The official documentation repository for Colossum Studios, covering our services, platform usage, APIs, and guides.
+
